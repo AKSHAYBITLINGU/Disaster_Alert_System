@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 300px;
+        margin: 40px auto;
+        padding: 20px;
+        background: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        text-align: center;
+      }
+      h1 {
+        color: #333;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+      }
+      label {
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+      input,
+      button {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+      }
+      button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      .login-link {
+        margin-top: 10px;
+      }
+      .login-link a {
+        text-decoration: none;
+        color: #007bff;
+        font-weight: bold;
+      }
+      .login-link a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Register</h1>
+      <form method="POST">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required />
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required />
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+        <button type="submit">Register</button>
+      </form>
+      <div class="login-link">
+        Already have an account? <a href="/login">Login here</a>
+      </div>
+    </div>
+  </body>
+</html>

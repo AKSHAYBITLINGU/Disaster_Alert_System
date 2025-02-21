@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Dashboard</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+      .container {
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+        background: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+      }
+      h1 {
+        color: #333;
+      }
+      .details {
+        font-size: 18px;
+        margin-top: 15px;
+        padding: 10px;
+        background: #007bff;
+        color: #fff;
+        border-radius: 5px;
+        text-align: left;
+        padding-left: 15px;
+      }
+      form {
+        margin-top: 20px;
+      }
+      input[type="text"] {
+        width: 80%;
+        padding: 10px;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      .update-btn,
+      .logout-btn {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 10px 15px;
+        background: #28a745;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+      }
+      .update-btn:hover {
+        background: #218838;
+      }
+      .logout-btn {
+        background: #dc3545;
+      }
+      .logout-btn:hover {
+        background: #c82333;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome, {{ username }}!</h1>
+      <div class="details">
+        <p><strong>Email:</strong> {{ email }}</p>
+        <p><strong>Location:</strong> {{ location }}</p>
+        <p><strong>Role:</strong> {{ role }}</p>
+      </div>
+
+      <!-- Update Location Form -->
+      <form action="/update_location" method="POST">
+        <label for="new_location"><strong>Update Location:</strong></label>
+        <input type="text" id="new_location" name="new_location" required />
+        <button type="submit" class="update-btn">Update</button>
+      </form>
+
+      <a href="/logout" class="logout-btn">Logout</a>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>View Users</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        padding: 0;
+        color: #333;
+      }
+
+      .container {
+        max-width: 1000px;
+        margin: 50px auto;
+        padding: 30px;
+        background: #fff;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+      }
+
+      h1 {
+        color: #007bff;
+        text-align: center;
+        font-size: 2.5em;
+        margin-bottom: 20px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+
+      th,
+      td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+
+      th {
+        background-color: #007bff;
+        color: #fff;
+        font-weight: 600;
+      }
+
+      tr:hover {
+        background-color: #f1f1f1;
+      }
+
+      .no-users {
+        text-align: center;
+        color: #777;
+        font-size: 1.2em;
+        margin-top: 20px;
+      }
+
+      .back-link {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        color: #007bff;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .back-link:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Registered Admins</h1>
+      {% if admins %}
+      <table>
+        <thead>
+          <tr>
+            <th>Username</th>
+            <th>Location</th>
+            <th>Email</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for admin in admins %}
+          <tr>
+            <td>{{ admin[0] }}</td>
+            <td>{{ admin[1] }}</td>
+            <td>{{ admin[2] }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p class="no-users">No admins found.</p>
+      {% endif %}
+      <a href="/" class="back-link">Back to Home</a>
+    </div>
+  </body>
+</html>

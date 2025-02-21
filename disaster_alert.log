@@ -1,0 +1,1011 @@
+2025-02-02 22:31:17,848 - INFO - Database initialized successfully.
+2025-02-02 22:31:17,886 - WARNING -  * Debugger is active!
+2025-02-02 22:31:17,891 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:32:13,230 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:32:11,792 - INFO -  * Restarting with stat
+2025-02-02 22:32:12,179 - INFO - Logging initialized successfully!
+2025-02-02 22:32:12,185 - INFO - Database initialized successfully.
+2025-02-02 22:32:12,201 - WARNING -  * Debugger is active!
+2025-02-02 22:32:12,206 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:32:12,465 - INFO -  * Restarting with stat
+2025-02-02 22:32:13,018 - INFO - Logging initialized successfully!
+2025-02-02 22:32:13,021 - INFO - Database initialized successfully.
+2025-02-02 22:32:13,055 - WARNING -  * Debugger is active!
+2025-02-02 22:32:13,066 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:32:13,298 - INFO -  * Restarting with stat
+2025-02-02 22:32:13,743 - INFO -  * Detected change in 'c:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:32:13,818 - INFO -  * Restarting with stat
+2025-02-02 22:32:13,834 - INFO - Logging initialized successfully!
+2025-02-02 22:32:13,837 - INFO - Database initialized successfully.
+2025-02-02 22:32:13,860 - WARNING -  * Debugger is active!
+2025-02-02 22:32:13,863 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:32:14,233 - INFO - Database initialized successfully.
+2025-02-02 22:32:14,260 - WARNING -  * Debugger is active!
+2025-02-02 22:32:14,263 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:32:52,047 - INFO - 127.0.0.1 - - [02/Feb/2025 22:32:52] "GET /send_alert HTTP/1.1" 200 -
+2025-02-02 22:32:57,748 - INFO - Sending alert to 1 users in local: hhhh
+2025-02-02 22:33:00,226 - ERROR - Error sending email to b22105@students.iitmandi.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de3302e3dsm61364205ad.183 - gsmtp')
+2025-02-02 22:33:00,227 - INFO - 127.0.0.1 - - [02/Feb/2025 22:33:00] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-02 22:33:00,543 - INFO - 127.0.0.1 - - [02/Feb/2025 22:33:00] "GET / HTTP/1.1" 200 -
+2025-02-02 22:34:29,365 - INFO - Logging initialized successfully!
+2025-02-02 22:34:29,369 - INFO - Database initialized successfully.
+2025-02-02 22:34:29,406 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-02 22:34:29,407 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 22:34:29,408 - INFO -  * Restarting with stat
+2025-02-02 22:34:29,712 - INFO - Logging initialized successfully!
+2025-02-02 22:34:29,716 - INFO - Database initialized successfully.
+2025-02-02 22:34:29,734 - WARNING -  * Debugger is active!
+2025-02-02 22:34:29,739 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:34:49,588 - INFO - 127.0.0.1 - - [02/Feb/2025 22:34:49] "GET / HTTP/1.1" 200 -
+2025-02-02 22:34:53,045 - INFO - 127.0.0.1 - - [02/Feb/2025 22:34:53] "GET /send_alert HTTP/1.1" 200 -
+2025-02-02 22:34:59,724 - INFO - Sending alert to 1 users in local: nnckdnc
+2025-02-02 22:35:02,579 - ERROR - Error sending email to b22105@students.iitmandi.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de32eb40csm61207145ad.117 - gsmtp')
+2025-02-02 22:35:02,580 - INFO - 127.0.0.1 - - [02/Feb/2025 22:35:02] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-02 22:35:02,584 - INFO - 127.0.0.1 - - [02/Feb/2025 22:35:02] "GET / HTTP/1.1" 200 -
+2025-02-02 22:37:06,711 - INFO -  * Detected change in 'c:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:06,778 - INFO -  * Restarting with stat
+2025-02-02 22:37:07,045 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:07,094 - INFO -  * Restarting with stat
+2025-02-02 22:37:07,117 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:07,160 - INFO - Database initialized successfully.
+2025-02-02 22:37:07,185 - WARNING -  * Debugger is active!
+2025-02-02 22:37:07,188 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:07,196 - INFO -  * Restarting with stat
+2025-02-02 22:37:07,545 - INFO - Logging initialized successfully!
+2025-02-02 22:37:07,549 - INFO - Database initialized successfully.
+2025-02-02 22:37:07,575 - WARNING -  * Debugger is active!
+2025-02-02 22:37:07,579 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:07,599 - INFO - Logging initialized successfully!
+2025-02-02 22:37:07,602 - INFO - Database initialized successfully.
+2025-02-02 22:37:07,632 - WARNING -  * Debugger is active!
+2025-02-02 22:37:07,636 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:08,122 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:08,189 - INFO -  * Restarting with stat
+2025-02-02 22:37:08,653 - INFO - Logging initialized successfully!
+2025-02-02 22:37:08,657 - INFO - Database initialized successfully.
+2025-02-02 22:37:08,685 - WARNING -  * Debugger is active!
+2025-02-02 22:37:08,689 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:16,738 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:16,778 - INFO -  * Restarting with stat
+2025-02-02 22:37:17,069 - INFO -  * Detected change in 'c:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:17,149 - INFO -  * Restarting with stat
+2025-02-02 22:37:17,168 - INFO - Logging initialized successfully!
+2025-02-02 22:37:17,171 - INFO - Database initialized successfully.
+2025-02-02 22:37:17,196 - WARNING -  * Debugger is active!
+2025-02-02 22:37:17,201 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:17,499 - INFO - Database initialized successfully.
+2025-02-02 22:37:17,532 - WARNING -  * Debugger is active!
+2025-02-02 22:37:17,534 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:17,978 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:18,051 - INFO -  * Restarting with stat
+2025-02-02 22:37:18,231 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:37:18,293 - INFO -  * Restarting with stat
+2025-02-02 22:37:18,523 - INFO - Logging initialized successfully!
+2025-02-02 22:37:18,526 - INFO - Database initialized successfully.
+2025-02-02 22:37:18,550 - WARNING -  * Debugger is active!
+2025-02-02 22:37:18,553 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:18,709 - INFO - Logging initialized successfully!
+2025-02-02 22:37:18,712 - INFO - Database initialized successfully.
+2025-02-02 22:37:18,730 - WARNING -  * Debugger is active!
+2025-02-02 22:37:18,733 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:37:29,277 - INFO - 127.0.0.1 - - [02/Feb/2025 22:37:29] "GET /send_alert HTTP/1.1" 200 -
+2025-02-02 22:37:35,680 - INFO - Sending alert to 1 users in local: jnjnjnj
+2025-02-02 22:37:38,210 - ERROR - Error sending email to b22105@students.iitmandi.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe631c039sm6784298b3a.25 - gsmtp')
+2025-02-02 22:37:38,211 - INFO - 127.0.0.1 - - [02/Feb/2025 22:37:38] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-02 22:37:38,532 - INFO - 127.0.0.1 - - [02/Feb/2025 22:37:38] "GET / HTTP/1.1" 200 -
+2025-02-02 22:38:05,016 - INFO - 127.0.0.1 - - [02/Feb/2025 22:38:05] "GET /send_alert HTTP/1.1" 200 -
+2025-02-02 22:38:13,298 - INFO - Sending alert to 2 users in Mandi: nnnnnnnn
+2025-02-02 22:38:16,325 - ERROR - Error sending email to b22105@students.iitmandi.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f83bfbfe6bsm10594462a91.46 - gsmtp')
+2025-02-02 22:38:18,760 - ERROR - Error sending email to b22058@students.iitmandi.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f848acbd99sm7323393a91.46 - gsmtp')
+2025-02-02 22:38:18,761 - INFO - 127.0.0.1 - - [02/Feb/2025 22:38:18] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-02 22:38:18,765 - INFO - 127.0.0.1 - - [02/Feb/2025 22:38:18] "GET / HTTP/1.1" 200 -
+2025-02-02 22:40:18,020 - INFO -  * Detected change in 'c:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:40:18,062 - INFO -  * Restarting with stat
+2025-02-02 22:40:18,414 - INFO - Database initialized successfully.
+2025-02-02 22:40:18,434 - WARNING -  * Debugger is active!
+2025-02-02 22:40:18,436 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:40:18,475 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:40:18,534 - INFO -  * Restarting with stat
+2025-02-02 22:40:19,002 - INFO - Logging initialized successfully!
+2025-02-02 22:40:19,005 - INFO - Database initialized successfully.
+2025-02-02 22:40:19,026 - WARNING -  * Debugger is active!
+2025-02-02 22:40:19,028 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:40:19,029 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:40:19,080 - INFO -  * Restarting with stat
+2025-02-02 22:40:19,591 - INFO - Logging initialized successfully!
+2025-02-02 22:40:19,595 - INFO - Database initialized successfully.
+2025-02-02 22:40:19,624 - WARNING -  * Debugger is active!
+2025-02-02 22:40:19,628 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:40:19,706 - INFO -  * Detected change in 'C:\\Users\\HP\\OneDrive\\Desktop\\Disaster_Alert_System\\se_1\\pra.py', reloading
+2025-02-02 22:40:19,774 - INFO -  * Restarting with stat
+2025-02-02 22:40:20,280 - INFO - Logging initialized successfully!
+2025-02-02 22:40:20,283 - INFO - Database initialized successfully.
+2025-02-02 22:40:20,312 - WARNING -  * Debugger is active!
+2025-02-02 22:40:20,315 - INFO -  * Debugger PIN: 924-287-152
+2025-02-02 22:40:59,281 - INFO - 127.0.0.1 - - [02/Feb/2025 22:40:59] "[33mGET /test_email HTTP/1.1[0m" 404 -
+2025-02-03 21:46:38,369 - INFO - Logging initialized successfully!
+2025-02-03 21:46:38,379 - INFO - Database initialized successfully.
+2025-02-03 21:46:38,393 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 21:46:38,393 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 21:46:38,969 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 21:46:39,103 - INFO - Logging initialized successfully!
+2025-02-03 21:46:39,105 - INFO - Database initialized successfully.
+2025-02-03 21:46:39,109 - WARNING -  * Debugger is active!
+2025-02-03 21:46:39,143 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 21:47:26,406 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-03 21:47:26,419 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-03 21:47:26,419 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-03 21:47:26,423 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-03 21:47:26,432 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2025-02-03 21:47:26,434 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-02-03 21:47:26,454 - INFO - 127.0.0.1 - - [03/Feb/2025 21:47:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-03 21:48:26,616 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/pra.py', reloading
+2025-02-03 21:48:26,930 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 21:48:27,176 - INFO - Logging initialized successfully!
+2025-02-03 21:48:27,183 - INFO - Database initialized successfully.
+2025-02-03 21:48:27,190 - WARNING -  * Debugger is active!
+2025-02-03 21:48:27,212 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 21:48:32,322 - INFO - 127.0.0.1 - - [03/Feb/2025 21:48:32] "GET / HTTP/1.1" 200 -
+2025-02-03 21:48:32,361 - INFO - 127.0.0.1 - - [03/Feb/2025 21:48:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-03 21:48:35,105 - INFO - 127.0.0.1 - - [03/Feb/2025 21:48:35] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 21:51:14,620 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/pra.py', reloading
+2025-02-03 21:51:15,411 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 21:51:16,105 - INFO - Logging initialized successfully!
+2025-02-03 21:51:16,111 - INFO - Database initialized successfully.
+2025-02-03 21:51:16,119 - WARNING -  * Debugger is active!
+2025-02-03 21:51:16,134 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 21:51:27,535 - INFO - Sending alert to 1 users in local: hehehe
+2025-02-03 21:51:29,697 - INFO - sending the mail
+2025-02-03 21:51:31,448 - INFO - Email sent to b22105@students.iitmandi.ac.in: hehehe
+2025-02-03 21:51:31,789 - INFO - 127.0.0.1 - - [03/Feb/2025 21:51:31] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-03 21:51:31,825 - INFO - 127.0.0.1 - - [03/Feb/2025 21:51:31] "GET / HTTP/1.1" 200 -
+2025-02-03 21:55:04,667 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/pra.py', reloading
+2025-02-03 21:55:04,758 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 21:57:56,499 - INFO - Logging initialized successfully!
+2025-02-03 21:57:56,508 - INFO - Database initialized successfully.
+2025-02-03 21:57:56,521 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 21:57:56,521 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 21:57:56,528 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 21:57:56,656 - INFO - Logging initialized successfully!
+2025-02-03 21:57:56,657 - INFO - Database initialized successfully.
+2025-02-03 21:57:56,661 - WARNING -  * Debugger is active!
+2025-02-03 21:57:56,673 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 21:59:13,932 - INFO - 127.0.0.1 - - [03/Feb/2025 21:59:13] "GET / HTTP/1.1" 200 -
+2025-02-03 21:59:14,913 - INFO - 127.0.0.1 - - [03/Feb/2025 21:59:14] "GET / HTTP/1.1" 200 -
+2025-02-03 21:59:15,590 - INFO - 127.0.0.1 - - [03/Feb/2025 21:59:15] "GET / HTTP/1.1" 200 -
+2025-02-03 21:59:17,040 - INFO - 127.0.0.1 - - [03/Feb/2025 21:59:17] "GET / HTTP/1.1" 200 -
+2025-02-03 21:59:23,195 - INFO - 127.0.0.1 - - [03/Feb/2025 21:59:23] "GET /register HTTP/1.1" 200 -
+2025-02-03 21:59:26,452 - INFO - 127.0.0.1 - - [03/Feb/2025 21:59:26] "GET / HTTP/1.1" 200 -
+2025-02-03 22:03:23,922 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:03:24,918 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:03:25,204 - INFO - Logging initialized successfully!
+2025-02-03 22:03:25,210 - INFO - Database initialized successfully.
+2025-02-03 22:03:25,215 - WARNING -  * Debugger is active!
+2025-02-03 22:03:25,228 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:03:51,819 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:03:52,486 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:03:52,675 - INFO - Logging initialized successfully!
+2025-02-03 22:03:52,677 - INFO - Database initialized successfully.
+2025-02-03 22:03:52,680 - WARNING -  * Debugger is active!
+2025-02-03 22:03:52,693 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:05:18,461 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:05:19,340 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:05:37,918 - INFO - Logging initialized successfully!
+2025-02-03 22:05:37,927 - INFO - Database initialized successfully.
+2025-02-03 22:05:37,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 22:05:37,936 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 22:05:37,943 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:05:38,072 - INFO - Logging initialized successfully!
+2025-02-03 22:05:38,073 - INFO - Database initialized successfully.
+2025-02-03 22:05:38,076 - WARNING -  * Debugger is active!
+2025-02-03 22:05:38,088 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:05:41,390 - INFO - 127.0.0.1 - - [03/Feb/2025 22:05:41] "GET / HTTP/1.1" 200 -
+2025-02-03 22:07:25,155 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:07:25,861 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:07:26,111 - INFO - Logging initialized successfully!
+2025-02-03 22:07:26,113 - INFO - Database initialized successfully.
+2025-02-03 22:07:26,117 - WARNING -  * Debugger is active!
+2025-02-03 22:07:26,128 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:07:36,010 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:07:36,270 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:07:36,412 - INFO - Logging initialized successfully!
+2025-02-03 22:07:36,413 - INFO - Database initialized successfully.
+2025-02-03 22:07:36,416 - WARNING -  * Debugger is active!
+2025-02-03 22:07:36,425 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:07:48,954 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:07:49,576 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:07:49,718 - INFO - Logging initialized successfully!
+2025-02-03 22:07:49,719 - INFO - Database initialized successfully.
+2025-02-03 22:07:49,721 - WARNING -  * Debugger is active!
+2025-02-03 22:07:49,732 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:08:22,740 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:08:23,031 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:08:23,230 - INFO - Logging initialized successfully!
+2025-02-03 22:08:23,231 - INFO - Database initialized successfully.
+2025-02-03 22:08:23,235 - WARNING -  * Debugger is active!
+2025-02-03 22:08:23,245 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:08:28,380 - INFO - 127.0.0.1 - - [03/Feb/2025 22:08:28] "GET / HTTP/1.1" 200 -
+2025-02-03 22:08:45,392 - INFO - 127.0.0.1 - - [03/Feb/2025 22:08:45] "GET / HTTP/1.1" 200 -
+2025-02-03 22:08:46,862 - INFO - 127.0.0.1 - - [03/Feb/2025 22:08:46] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 22:12:13,966 - INFO - 127.0.0.1 - - [03/Feb/2025 22:12:13] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 22:13:47,212 - INFO - 127.0.0.1 - - [03/Feb/2025 22:13:47] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 22:14:21,009 - INFO - 127.0.0.1 - - [03/Feb/2025 22:14:21] "GET /register HTTP/1.1" 200 -
+2025-02-03 22:14:27,705 - INFO - 127.0.0.1 - - [03/Feb/2025 22:14:27] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 22:14:31,684 - INFO - 127.0.0.1 - - [03/Feb/2025 22:14:31] "GET / HTTP/1.1" 200 -
+2025-02-03 22:16:27,445 - INFO - 127.0.0.1 - - [03/Feb/2025 22:16:27] "GET / HTTP/1.1" 200 -
+2025-02-03 22:17:29,570 - INFO - 127.0.0.1 - - [03/Feb/2025 22:17:29] "GET / HTTP/1.1" 200 -
+2025-02-03 22:17:33,295 - INFO - 127.0.0.1 - - [03/Feb/2025 22:17:33] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 22:17:36,424 - INFO - 127.0.0.1 - - [03/Feb/2025 22:17:36] "GET / HTTP/1.1" 200 -
+2025-02-03 22:21:54,907 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:21:55,648 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:21:56,569 - INFO - Logging initialized successfully!
+2025-02-03 22:21:56,578 - INFO - Database initialized successfully.
+2025-02-03 22:21:56,583 - WARNING -  * Debugger is active!
+2025-02-03 22:21:56,623 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:24:39,866 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/database.py', reloading
+2025-02-03 22:24:40,765 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:24:40,965 - INFO - Logging initialized successfully!
+2025-02-03 22:24:40,967 - INFO - Database initialized successfully.
+2025-02-03 22:24:40,971 - WARNING -  * Debugger is active!
+2025-02-03 22:24:40,982 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:24:41,522 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/database.py', reloading
+2025-02-03 22:24:41,523 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/database.py', reloading
+2025-02-03 22:24:42,059 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:24:42,219 - INFO - Logging initialized successfully!
+2025-02-03 22:24:42,220 - INFO - Database initialized successfully.
+2025-02-03 22:24:42,223 - WARNING -  * Debugger is active!
+2025-02-03 22:24:42,232 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:25:10,750 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:25:11,500 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:25:11,683 - INFO - Logging initialized successfully!
+2025-02-03 22:26:04,180 - INFO - Logging initialized successfully!
+2025-02-03 22:26:04,181 - INFO - Database initialized successfully.
+2025-02-03 22:26:04,194 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 22:26:04,194 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 22:26:04,201 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:26:04,333 - INFO - Logging initialized successfully!
+2025-02-03 22:26:04,334 - INFO - Database initialized successfully.
+2025-02-03 22:26:04,336 - WARNING -  * Debugger is active!
+2025-02-03 22:26:04,348 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:26:07,393 - INFO - 127.0.0.1 - - [03/Feb/2025 22:26:07] "GET / HTTP/1.1" 200 -
+2025-02-03 22:26:08,708 - INFO - 127.0.0.1 - - [03/Feb/2025 22:26:08] "GET / HTTP/1.1" 200 -
+2025-02-03 22:26:09,618 - INFO - 127.0.0.1 - - [03/Feb/2025 22:26:09] "GET /register HTTP/1.1" 200 -
+2025-02-03 22:26:12,634 - INFO - 127.0.0.1 - - [03/Feb/2025 22:26:12] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 22:26:14,511 - INFO - 127.0.0.1 - - [03/Feb/2025 22:26:14] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 22:26:47,437 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:26:47,697 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:26:47,886 - INFO - Logging initialized successfully!
+2025-02-03 22:26:47,887 - INFO - Database initialized successfully.
+2025-02-03 22:26:47,891 - WARNING -  * Debugger is active!
+2025-02-03 22:26:47,901 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:28:52,989 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 22:28:53,774 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:28:54,020 - INFO - Logging initialized successfully!
+2025-02-03 22:28:54,021 - INFO - Database initialized successfully.
+2025-02-03 22:28:54,025 - WARNING -  * Debugger is active!
+2025-02-03 22:28:54,039 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:29:07,638 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 22:29:07,638 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 22:29:08,243 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:29:08,473 - INFO - Logging initialized successfully!
+2025-02-03 22:29:08,474 - INFO - Database initialized successfully.
+2025-02-03 22:29:08,479 - WARNING -  * Debugger is active!
+2025-02-03 22:29:08,489 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:29:19,074 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:29:19,636 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:29:19,876 - INFO - Logging initialized successfully!
+2025-02-03 22:29:19,877 - INFO - Database initialized successfully.
+2025-02-03 22:29:19,881 - WARNING -  * Debugger is active!
+2025-02-03 22:29:19,893 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:29:43,439 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 22:29:44,113 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:29:44,298 - INFO - Logging initialized successfully!
+2025-02-03 22:29:44,299 - INFO - Database initialized successfully.
+2025-02-03 22:29:44,303 - WARNING -  * Debugger is active!
+2025-02-03 22:29:44,313 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:29:48,572 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:29:49,414 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:29:49,571 - INFO - Logging initialized successfully!
+2025-02-03 22:29:49,572 - INFO - Database initialized successfully.
+2025-02-03 22:29:49,575 - WARNING -  * Debugger is active!
+2025-02-03 22:29:49,586 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:29:55,902 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:29:56,701 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:29:56,843 - INFO - Logging initialized successfully!
+2025-02-03 22:29:56,844 - INFO - Database initialized successfully.
+2025-02-03 22:29:56,846 - WARNING -  * Debugger is active!
+2025-02-03 22:29:56,856 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:30:00,733 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 22:30:00,954 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:30:01,128 - INFO - Logging initialized successfully!
+2025-02-03 22:30:01,129 - INFO - Database initialized successfully.
+2025-02-03 22:30:01,132 - WARNING -  * Debugger is active!
+2025-02-03 22:30:01,141 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:30:30,567 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:30:31,420 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:40:49,881 - INFO - Logging initialized successfully!
+2025-02-03 22:40:49,881 - INFO - Database initialized successfully.
+2025-02-03 22:40:49,891 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 22:40:49,891 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 22:40:49,898 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:40:50,032 - INFO - Logging initialized successfully!
+2025-02-03 22:40:50,032 - INFO - Database initialized successfully.
+2025-02-03 22:40:50,035 - WARNING -  * Debugger is active!
+2025-02-03 22:40:50,047 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:40:52,546 - INFO - 127.0.0.1 - - [03/Feb/2025 22:40:52] "GET / HTTP/1.1" 200 -
+2025-02-03 22:40:54,607 - INFO - 127.0.0.1 - - [03/Feb/2025 22:40:54] "GET / HTTP/1.1" 200 -
+2025-02-03 22:41:04,691 - INFO - 127.0.0.1 - - [03/Feb/2025 22:41:04] "GET /register HTTP/1.1" 200 -
+2025-02-03 22:41:54,560 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:41:55,557 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:41:55,744 - INFO - Logging initialized successfully!
+2025-02-03 22:41:55,744 - INFO - Database initialized successfully.
+2025-02-03 22:41:55,748 - WARNING -  * Debugger is active!
+2025-02-03 22:41:55,759 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:42:00,717 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:00] "GET / HTTP/1.1" 200 -
+2025-02-03 22:42:03,274 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:03] "GET /register HTTP/1.1" 200 -
+2025-02-03 22:42:24,144 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:24] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-03 22:42:24,151 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:24] "GET / HTTP/1.1" 200 -
+2025-02-03 22:42:27,127 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:27] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 22:42:40,252 - WARNING - No users found in location: kamand
+2025-02-03 22:42:40,254 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:40] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-03 22:42:40,265 - INFO - 127.0.0.1 - - [03/Feb/2025 22:42:40] "GET / HTTP/1.1" 200 -
+2025-02-03 22:45:32,909 - INFO - 127.0.0.1 - - [03/Feb/2025 22:45:32] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 22:45:41,295 - INFO - Sending alert to 1 users in Kamand: test
+2025-02-03 22:45:41,296 - ERROR - Error storing sent alert in the database: name 'datetime' is not defined
+2025-02-03 22:45:41,296 - ERROR - Error sending email to b22096@students.iitmandi.ac.in: name 'mail' is not defined
+2025-02-03 22:45:41,297 - INFO - 127.0.0.1 - - [03/Feb/2025 22:45:41] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-03 22:45:41,309 - INFO - 127.0.0.1 - - [03/Feb/2025 22:45:41] "GET / HTTP/1.1" 200 -
+2025-02-03 22:46:30,292 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 22:46:30,706 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:46:30,966 - INFO - Logging initialized successfully!
+2025-02-03 22:46:30,966 - INFO - Database initialized successfully.
+2025-02-03 22:46:30,971 - WARNING -  * Debugger is active!
+2025-02-03 22:46:30,983 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:46:35,533 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 22:46:36,088 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 22:46:36,231 - INFO - Logging initialized successfully!
+2025-02-03 22:46:36,231 - INFO - Database initialized successfully.
+2025-02-03 22:46:36,233 - WARNING -  * Debugger is active!
+2025-02-03 22:46:36,242 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 22:47:10,903 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-03 22:47:11,552 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:02:02,968 - INFO - Logging initialized successfully!
+2025-02-03 23:02:02,971 - INFO - Database initialized successfully.
+2025-02-03 23:02:02,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 23:02:02,981 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 23:02:02,988 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:02:03,117 - INFO - Logging initialized successfully!
+2025-02-03 23:02:03,119 - INFO - Database initialized successfully.
+2025-02-03 23:02:03,121 - WARNING -  * Debugger is active!
+2025-02-03 23:02:03,146 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:02:36,891 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:02:37,444 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:02:37,624 - INFO - Logging initialized successfully!
+2025-02-03 23:02:37,626 - INFO - Database initialized successfully.
+2025-02-03 23:02:37,630 - WARNING -  * Debugger is active!
+2025-02-03 23:02:37,641 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:02:44,041 - INFO - 127.0.0.1 - - [03/Feb/2025 23:02:44] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 23:02:57,379 - INFO - Sending alert to 1 users in Kamand: test
+2025-02-03 23:03:02,569 - INFO - Email sent to b22096@students.iitmandi.ac.in: test
+2025-02-03 23:03:04,930 - INFO - 127.0.0.1 - - [03/Feb/2025 23:03:04] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-03 23:03:04,961 - INFO - 127.0.0.1 - - [03/Feb/2025 23:03:04] "GET / HTTP/1.1" 200 -
+2025-02-03 23:05:07,643 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:07] "GET / HTTP/1.1" 200 -
+2025-02-03 23:05:09,175 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:09] "GET /register HTTP/1.1" 200 -
+2025-02-03 23:05:11,791 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:11] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 23:05:19,982 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:19] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 23:05:21,124 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:21] "GET / HTTP/1.1" 200 -
+2025-02-03 23:05:23,340 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:23] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 23:05:25,646 - INFO - 127.0.0.1 - - [03/Feb/2025 23:05:25] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 23:05:34,549 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:05:34,955 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:05:35,200 - INFO - Logging initialized successfully!
+2025-02-03 23:05:35,202 - INFO - Database initialized successfully.
+2025-02-03 23:05:35,207 - WARNING -  * Debugger is active!
+2025-02-03 23:05:35,217 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:06:00,357 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:06:00,451 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:06:00,637 - INFO - Logging initialized successfully!
+2025-02-03 23:06:00,639 - INFO - Database initialized successfully.
+2025-02-03 23:06:00,643 - WARNING -  * Debugger is active!
+2025-02-03 23:06:00,654 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:06:09,389 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:06:09,792 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:06:09,941 - INFO - Logging initialized successfully!
+2025-02-03 23:06:09,943 - INFO - Database initialized successfully.
+2025-02-03 23:06:09,946 - WARNING -  * Debugger is active!
+2025-02-03 23:06:09,957 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:06:30,199 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:06:31,173 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:06:31,328 - INFO - Logging initialized successfully!
+2025-02-03 23:06:31,329 - INFO - Database initialized successfully.
+2025-02-03 23:06:31,330 - INFO - Database initialized successfully.
+2025-02-03 23:06:31,333 - WARNING -  * Debugger is active!
+2025-02-03 23:06:31,343 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:07:11,771 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:07:12,698 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:07:12,881 - INFO - Logging initialized successfully!
+2025-02-03 23:07:12,883 - INFO - Database initialized successfully.
+2025-02-03 23:07:12,887 - WARNING -  * Debugger is active!
+2025-02-03 23:07:12,899 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:07:32,348 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:07:33,100 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:07:33,282 - INFO - Logging initialized successfully!
+2025-02-03 23:07:33,284 - INFO - Database initialized successfully.
+2025-02-03 23:07:33,287 - WARNING -  * Debugger is active!
+2025-02-03 23:07:33,297 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:08:55,841 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-03 23:08:55,891 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:08:56,098 - INFO - Logging initialized successfully!
+2025-02-03 23:08:56,100 - INFO - Database initialized successfully.
+2025-02-03 23:08:56,104 - WARNING -  * Debugger is active!
+2025-02-03 23:08:56,115 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:09:35,776 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-03 23:09:36,455 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:09:36,713 - INFO - Logging initialized successfully!
+2025-02-03 23:09:36,715 - INFO - Database initialized successfully.
+2025-02-03 23:09:36,719 - WARNING -  * Debugger is active!
+2025-02-03 23:09:36,732 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:09:38,753 - INFO - 127.0.0.1 - - [03/Feb/2025 23:09:38] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 23:10:58,021 - INFO - 127.0.0.1 - - [03/Feb/2025 23:10:58] "GET /register HTTP/1.1" 200 -
+2025-02-03 23:12:25,051 - INFO - 127.0.0.1 - - [03/Feb/2025 23:12:25] "GET /register HTTP/1.1" 200 -
+2025-02-03 23:12:51,460 - INFO - 127.0.0.1 - - [03/Feb/2025 23:12:51] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-03 23:12:51,472 - INFO - 127.0.0.1 - - [03/Feb/2025 23:12:51] "GET / HTTP/1.1" 200 -
+2025-02-03 23:12:53,510 - INFO - 127.0.0.1 - - [03/Feb/2025 23:12:53] "GET /send_alert HTTP/1.1" 200 -
+2025-02-03 23:13:02,017 - INFO - Sending alert to 1 users in Salgi: test
+2025-02-03 23:13:06,015 - INFO - Email sent to b22117@students.iitmandi.ac.in: test
+2025-02-03 23:13:06,349 - INFO - 127.0.0.1 - - [03/Feb/2025 23:13:06] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-03 23:13:06,368 - INFO - 127.0.0.1 - - [03/Feb/2025 23:13:06] "GET / HTTP/1.1" 200 -
+2025-02-03 23:13:18,580 - INFO - 127.0.0.1 - - [03/Feb/2025 23:13:18] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 23:15:06,463 - INFO - 127.0.0.1 - - [03/Feb/2025 23:15:06] "GET /alerts HTTP/1.1" 200 -
+2025-02-03 23:16:14,798 - INFO - 127.0.0.1 - - [03/Feb/2025 23:16:14] "GET /register HTTP/1.1" 200 -
+2025-02-03 23:17:09,161 - INFO - 127.0.0.1 - - [03/Feb/2025 23:17:09] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-03 23:17:09,173 - INFO - 127.0.0.1 - - [03/Feb/2025 23:17:09] "GET / HTTP/1.1" 200 -
+2025-02-03 23:18:42,195 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/main.py', reloading
+2025-02-03 23:18:42,592 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:18:42,841 - INFO - Logging initialized successfully!
+2025-02-03 23:18:42,842 - INFO - Database initialized successfully.
+2025-02-03 23:18:42,844 - INFO - Database initialized successfully.
+2025-02-03 23:18:42,848 - WARNING -  * Debugger is active!
+2025-02-03 23:18:42,860 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:24:45,674 - INFO - Logging initialized successfully!
+2025-02-03 23:24:45,675 - INFO - Database initialized successfully.
+2025-02-03 23:24:45,677 - INFO - Database initialized successfully.
+2025-02-03 23:24:45,689 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 23:24:45,689 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 23:24:45,696 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:24:45,822 - INFO - Logging initialized successfully!
+2025-02-03 23:24:45,823 - INFO - Database initialized successfully.
+2025-02-03 23:24:45,824 - INFO - Database initialized successfully.
+2025-02-03 23:24:45,826 - WARNING -  * Debugger is active!
+2025-02-03 23:24:45,839 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:36:33,918 - INFO - Logging initialized successfully!
+2025-02-03 23:36:33,926 - INFO - Database initialized successfully.
+2025-02-03 23:36:33,928 - INFO - Database initialized successfully.
+2025-02-03 23:36:33,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 23:36:33,939 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 23:36:33,947 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:36:34,077 - INFO - Logging initialized successfully!
+2025-02-03 23:36:34,078 - INFO - Database initialized successfully.
+2025-02-03 23:36:34,080 - INFO - Database initialized successfully.
+2025-02-03 23:36:34,082 - WARNING -  * Debugger is active!
+2025-02-03 23:36:34,108 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:36:36,220 - INFO - 127.0.0.1 - - [03/Feb/2025 23:36:36] "GET / HTTP/1.1" 200 -
+2025-02-03 23:39:03,256 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-03 23:39:04,187 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:39:04,433 - INFO - Logging initialized successfully!
+2025-02-03 23:39:04,434 - INFO - Database initialized successfully.
+2025-02-03 23:41:16,417 - INFO - Logging initialized successfully!
+2025-02-03 23:41:16,424 - INFO - Database initialized successfully.
+2025-02-03 23:41:16,427 - INFO - Database initialized successfully.
+2025-02-03 23:41:16,436 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 23:41:16,436 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 23:41:16,446 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:41:16,574 - INFO - Logging initialized successfully!
+2025-02-03 23:41:16,575 - INFO - Database initialized successfully.
+2025-02-03 23:41:16,576 - INFO - Database initialized successfully.
+2025-02-03 23:41:16,579 - WARNING -  * Debugger is active!
+2025-02-03 23:41:16,591 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:41:20,872 - INFO - 127.0.0.1 - - [03/Feb/2025 23:41:20] "GET / HTTP/1.1" 200 -
+2025-02-03 23:42:01,656 - INFO - 127.0.0.1 - - [03/Feb/2025 23:42:01] "GET / HTTP/1.1" 200 -
+2025-02-03 23:42:10,013 - INFO - 127.0.0.1 - - [03/Feb/2025 23:42:10] "GET / HTTP/1.1" 200 -
+2025-02-03 23:42:59,150 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 23:42:59,323 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:42:59,568 - INFO - Logging initialized successfully!
+2025-02-03 23:42:59,569 - INFO - Database initialized successfully.
+2025-02-03 23:42:59,570 - INFO - Database initialized successfully.
+2025-02-03 23:42:59,574 - WARNING -  * Debugger is active!
+2025-02-03 23:42:59,586 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:43:09,134 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:09] "GET / HTTP/1.1" 200 -
+2025-02-03 23:43:10,336 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:10] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2025-02-03 23:43:10,362 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:10] "GET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-03 23:43:10,362 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:10] "GET /users?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-03 23:43:10,371 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:10] "GET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-03 23:43:10,414 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:10] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-03 23:43:29,087 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-03 23:43:29,849 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:43:30,033 - INFO - Logging initialized successfully!
+2025-02-03 23:43:30,034 - INFO - Database initialized successfully.
+2025-02-03 23:43:30,036 - INFO - Database initialized successfully.
+2025-02-03 23:43:30,040 - WARNING -  * Debugger is active!
+2025-02-03 23:43:30,050 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:43:31,957 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:31] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2025-02-03 23:43:31,980 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:31] "[36mGET /users?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-03 23:43:31,981 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:31] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-03 23:43:31,986 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:31] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-03 23:43:33,446 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:33] "[35m[1mGET /users HTTP/1.1[0m" 500 -
+2025-02-03 23:43:33,457 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:33] "[36mGET /users?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-03 23:43:33,458 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:33] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-03 23:43:33,463 - INFO - 127.0.0.1 - - [03/Feb/2025 23:43:33] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-03 23:44:06,055 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/functions.py', reloading
+2025-02-03 23:44:06,353 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-03 23:44:06,600 - INFO - Logging initialized successfully!
+2025-02-03 23:44:06,601 - INFO - Database initialized successfully.
+2025-02-03 23:44:06,602 - INFO - Database initialized successfully.
+2025-02-03 23:44:06,607 - WARNING -  * Debugger is active!
+2025-02-03 23:44:06,620 - INFO -  * Debugger PIN: 612-417-185
+2025-02-03 23:44:18,555 - INFO - 127.0.0.1 - - [03/Feb/2025 23:44:18] "GET /users HTTP/1.1" 200 -
+2025-02-03 23:44:23,973 - INFO - 127.0.0.1 - - [03/Feb/2025 23:44:23] "GET / HTTP/1.1" 200 -
+2025-02-04 21:15:50,320 - INFO - Logging initialized successfully!
+2025-02-04 21:15:50,323 - INFO - Database initialized successfully.
+2025-02-04 21:15:50,325 - INFO - Database initialized successfully.
+2025-02-04 21:15:50,334 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 21:15:50,334 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 21:15:50,491 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:15:50,619 - INFO - Logging initialized successfully!
+2025-02-04 21:15:50,620 - INFO - Database initialized successfully.
+2025-02-04 21:15:50,621 - INFO - Database initialized successfully.
+2025-02-04 21:15:50,624 - WARNING -  * Debugger is active!
+2025-02-04 21:15:50,809 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:16:07,085 - INFO - 127.0.0.1 - - [04/Feb/2025 21:16:07] "GET / HTTP/1.1" 200 -
+2025-02-04 21:17:26,007 - INFO - 127.0.0.1 - - [04/Feb/2025 21:17:26] "GET /users HTTP/1.1" 200 -
+2025-02-04 21:17:26,026 - INFO - 127.0.0.1 - - [04/Feb/2025 21:17:26] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 21:17:26,028 - INFO - 127.0.0.1 - - [04/Feb/2025 21:17:26] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 21:17:41,525 - INFO - 127.0.0.1 - - [04/Feb/2025 21:17:41] "GET / HTTP/1.1" 200 -
+2025-02-04 21:17:44,032 - INFO - 127.0.0.1 - - [04/Feb/2025 21:17:44] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 21:17:51,400 - INFO - 127.0.0.1 - - [04/Feb/2025 21:17:51] "GET /register HTTP/1.1" 200 -
+2025-02-04 21:20:05,475 - INFO - 127.0.0.1 - - [04/Feb/2025 21:20:05] "GET / HTTP/1.1" 200 -
+2025-02-04 21:28:55,334 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 21:28:56,232 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:28:56,491 - INFO - Logging initialized successfully!
+2025-02-04 21:35:49,746 - INFO - Logging initialized successfully!
+2025-02-04 21:35:49,754 - INFO - Database initialized successfully.
+2025-02-04 21:35:49,756 - INFO - Database initialized successfully.
+2025-02-04 21:35:49,766 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 21:35:49,766 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 21:35:49,773 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:35:49,903 - INFO - Logging initialized successfully!
+2025-02-04 21:35:49,904 - INFO - Database initialized successfully.
+2025-02-04 21:35:49,906 - INFO - Database initialized successfully.
+2025-02-04 21:35:49,908 - WARNING -  * Debugger is active!
+2025-02-04 21:35:49,921 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:35:55,336 - INFO - 127.0.0.1 - - [04/Feb/2025 21:35:55] "GET / HTTP/1.1" 200 -
+2025-02-04 21:36:01,707 - INFO - 127.0.0.1 - - [04/Feb/2025 21:36:01] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:43:15,497 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/database.py', reloading
+2025-02-04 21:43:16,153 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:43:16,389 - INFO - Logging initialized successfully!
+2025-02-04 21:43:16,390 - INFO - Database initialized successfully.
+2025-02-04 21:43:16,392 - INFO - Database initialized successfully.
+2025-02-04 21:43:16,396 - WARNING -  * Debugger is active!
+2025-02-04 21:43:16,407 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:43:59,093 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 21:43:59,765 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:43:59,912 - INFO - Logging initialized successfully!
+2025-02-04 21:43:59,913 - INFO - Database initialized successfully.
+2025-02-04 21:43:59,915 - INFO - Database initialized successfully.
+2025-02-04 21:43:59,917 - WARNING -  * Debugger is active!
+2025-02-04 21:43:59,926 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:44:09,505 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 21:44:10,066 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:44:10,210 - INFO - Logging initialized successfully!
+2025-02-04 21:44:10,210 - INFO - Database initialized successfully.
+2025-02-04 21:44:10,212 - INFO - Database initialized successfully.
+2025-02-04 21:44:10,215 - WARNING -  * Debugger is active!
+2025-02-04 21:44:10,226 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:44:18,528 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 21:44:19,356 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:44:19,502 - INFO - Logging initialized successfully!
+2025-02-04 21:44:19,503 - INFO - Database initialized successfully.
+2025-02-04 21:44:19,504 - INFO - Database initialized successfully.
+2025-02-04 21:44:19,507 - WARNING -  * Debugger is active!
+2025-02-04 21:44:19,517 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:44:50,798 - INFO - Logging initialized successfully!
+2025-02-04 21:44:50,801 - INFO - Database initialized successfully.
+2025-02-04 21:44:50,802 - INFO - Database initialized successfully.
+2025-02-04 21:44:50,810 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 21:44:50,811 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 21:44:50,816 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:44:50,944 - INFO - Logging initialized successfully!
+2025-02-04 21:44:50,945 - INFO - Database initialized successfully.
+2025-02-04 21:44:50,947 - INFO - Database initialized successfully.
+2025-02-04 21:44:50,949 - WARNING -  * Debugger is active!
+2025-02-04 21:44:50,961 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:46:13,207 - INFO - 127.0.0.1 - - [04/Feb/2025 21:46:13] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:46:19,872 - INFO - 127.0.0.1 - - [04/Feb/2025 21:46:19] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:48:36,077 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 21:48:36,564 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:48:36,804 - INFO - Logging initialized successfully!
+2025-02-04 21:48:36,805 - INFO - Database initialized successfully.
+2025-02-04 21:48:36,806 - INFO - Database initialized successfully.
+2025-02-04 21:48:36,811 - WARNING -  * Debugger is active!
+2025-02-04 21:48:36,822 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 21:49:14,527 - INFO - 127.0.0.1 - - [04/Feb/2025 21:49:14] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:49:43,397 - INFO - 127.0.0.1 - - [04/Feb/2025 21:49:43] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:50:44,573 - INFO - 127.0.0.1 - - [04/Feb/2025 21:50:44] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:50:47,153 - INFO - 127.0.0.1 - - [04/Feb/2025 21:50:47] "[33mGET /register.html HTTP/1.1[0m" 404 -
+2025-02-04 21:52:21,697 - INFO - 127.0.0.1 - - [04/Feb/2025 21:52:21] "[33mGET /register.html HTTP/1.1[0m" 404 -
+2025-02-04 21:54:02,564 - INFO - 127.0.0.1 - - [04/Feb/2025 21:54:02] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:54:04,374 - INFO - 127.0.0.1 - - [04/Feb/2025 21:54:04] "GET /register HTTP/1.1" 200 -
+2025-02-04 21:54:15,006 - INFO - 127.0.0.1 - - [04/Feb/2025 21:54:15] "GET /register HTTP/1.1" 200 -
+2025-02-04 21:54:25,955 - INFO - 127.0.0.1 - - [04/Feb/2025 21:54:25] "GET /register HTTP/1.1" 200 -
+2025-02-04 21:54:39,215 - INFO - 127.0.0.1 - - [04/Feb/2025 21:54:39] "GET /register HTTP/1.1" 200 -
+2025-02-04 21:54:45,608 - INFO - 127.0.0.1 - - [04/Feb/2025 21:54:45] "GET /login HTTP/1.1" 200 -
+2025-02-04 21:55:11,851 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:11] "GET / HTTP/1.1" 200 -
+2025-02-04 21:55:14,572 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:14] "GET /register HTTP/1.1" 200 -
+2025-02-04 21:55:27,962 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:27] "GET /users HTTP/1.1" 200 -
+2025-02-04 21:55:27,981 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:27] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 21:55:27,981 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:27] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 21:55:29,983 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:29] "GET / HTTP/1.1" 200 -
+2025-02-04 21:55:31,887 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:31] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 21:55:57,165 - INFO - 127.0.0.1 - - [04/Feb/2025 21:55:57] "GET / HTTP/1.1" 200 -
+2025-02-04 21:59:24,374 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 21:59:25,100 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 21:59:25,356 - INFO - Logging initialized successfully!
+2025-02-04 22:06:35,210 - INFO - Logging initialized successfully!
+2025-02-04 22:06:35,218 - INFO - Database initialized successfully.
+2025-02-04 22:06:35,220 - INFO - Database initialized successfully.
+2025-02-04 22:06:35,230 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:06:35,230 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:06:35,237 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:06:35,364 - INFO - Logging initialized successfully!
+2025-02-04 22:06:35,365 - INFO - Database initialized successfully.
+2025-02-04 22:06:35,367 - INFO - Database initialized successfully.
+2025-02-04 22:06:35,370 - WARNING -  * Debugger is active!
+2025-02-04 22:06:35,382 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:06:40,538 - INFO - 127.0.0.1 - - [04/Feb/2025 22:06:40] "[32mGET / HTTP/1.1[0m" 302 -
+2025-02-04 22:06:40,554 - INFO - 127.0.0.1 - - [04/Feb/2025 22:06:40] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:06:45,660 - INFO - 127.0.0.1 - - [04/Feb/2025 22:06:45] "GET /register HTTP/1.1" 200 -
+2025-02-04 22:07:34,669 - INFO - 127.0.0.1 - - [04/Feb/2025 22:07:34] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-02-04 22:07:34,997 - INFO - 127.0.0.1 - - [04/Feb/2025 22:07:34] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-04 22:07:34,998 - INFO - 127.0.0.1 - - [04/Feb/2025 22:07:34] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-04 22:07:35,003 - INFO - 127.0.0.1 - - [04/Feb/2025 22:07:35] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-04 22:07:35,027 - INFO - 127.0.0.1 - - [04/Feb/2025 22:07:35] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:08:13,539 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:08:14,133 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:08:14,377 - INFO - Logging initialized successfully!
+2025-02-04 22:08:14,378 - INFO - Database initialized successfully.
+2025-02-04 22:08:14,380 - INFO - Database initialized successfully.
+2025-02-04 22:08:14,384 - WARNING -  * Debugger is active!
+2025-02-04 22:08:14,396 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:08:33,862 - INFO - 127.0.0.1 - - [04/Feb/2025 22:08:33] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-04 22:08:34,183 - INFO - 127.0.0.1 - - [04/Feb/2025 22:08:34] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+2025-02-04 22:08:34,203 - INFO - 127.0.0.1 - - [04/Feb/2025 22:08:34] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:09:38,721 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:09:39,027 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:09:39,221 - INFO - Logging initialized successfully!
+2025-02-04 22:09:39,222 - INFO - Database initialized successfully.
+2025-02-04 22:09:39,224 - INFO - Database initialized successfully.
+2025-02-04 22:09:39,228 - WARNING -  * Debugger is active!
+2025-02-04 22:09:39,241 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:10:04,507 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:10:05,490 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:10:05,683 - INFO - Logging initialized successfully!
+2025-02-04 22:10:05,684 - INFO - Database initialized successfully.
+2025-02-04 22:10:05,685 - INFO - Database initialized successfully.
+2025-02-04 22:10:05,689 - WARNING -  * Debugger is active!
+2025-02-04 22:10:05,698 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:10:29,837 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:10:29,940 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:10:30,089 - INFO - Logging initialized successfully!
+2025-02-04 22:10:30,090 - INFO - Database initialized successfully.
+2025-02-04 22:10:30,092 - INFO - Database initialized successfully.
+2025-02-04 22:10:30,094 - WARNING -  * Debugger is active!
+2025-02-04 22:10:30,105 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:10:47,081 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:47] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-02-04 22:10:47,386 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:47] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:10:47,387 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:47] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-04 22:10:47,392 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:47] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:10:58,404 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:58] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-02-04 22:10:58,707 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:58] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-04 22:10:58,707 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:58] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:10:58,714 - INFO - 127.0.0.1 - - [04/Feb/2025 22:10:58] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:12:38,007 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:12:39,026 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:12:39,310 - INFO - Logging initialized successfully!
+2025-02-04 22:12:39,312 - INFO - Database initialized successfully.
+2025-02-04 22:12:39,314 - INFO - Database initialized successfully.
+2025-02-04 22:12:39,319 - WARNING -  * Debugger is active!
+2025-02-04 22:12:39,332 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:14:12,141 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/database.py', reloading
+2025-02-04 22:14:13,057 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:14:13,200 - INFO - Logging initialized successfully!
+2025-02-04 22:14:13,201 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:14:13,203 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:14:13,205 - WARNING -  * Debugger is active!
+2025-02-04 22:14:13,215 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:14:36,627 - INFO - Logging initialized successfully!
+2025-02-04 22:14:36,628 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:14:36,630 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:14:36,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:14:36,636 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:14:36,640 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:14:36,767 - INFO - Logging initialized successfully!
+2025-02-04 22:14:36,768 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:14:36,770 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:14:36,772 - WARNING -  * Debugger is active!
+2025-02-04 22:14:36,783 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:14:44,124 - INFO - 127.0.0.1 - - [04/Feb/2025 22:14:44] "[32mGET / HTTP/1.1[0m" 302 -
+2025-02-04 22:14:44,146 - INFO - 127.0.0.1 - - [04/Feb/2025 22:14:44] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:14:50,490 - INFO - 127.0.0.1 - - [04/Feb/2025 22:14:50] "GET /register HTTP/1.1" 200 -
+2025-02-04 22:15:22,504 - INFO - 127.0.0.1 - - [04/Feb/2025 22:15:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-02-04 22:15:22,820 - INFO - 127.0.0.1 - - [04/Feb/2025 22:15:22] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-04 22:15:22,820 - INFO - 127.0.0.1 - - [04/Feb/2025 22:15:22] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:15:22,826 - INFO - 127.0.0.1 - - [04/Feb/2025 22:15:22] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:16:17,479 - INFO - Logging initialized successfully!
+2025-02-04 22:16:17,480 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:17,481 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:17,490 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:16:17,490 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:16:17,496 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:16:17,624 - INFO - Logging initialized successfully!
+2025-02-04 22:16:17,625 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:17,627 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:17,630 - WARNING -  * Debugger is active!
+2025-02-04 22:16:17,641 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:16:35,812 - INFO - Logging initialized successfully!
+2025-02-04 22:16:35,813 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:35,815 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:35,821 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:16:35,821 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:16:35,825 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:16:35,949 - INFO - Logging initialized successfully!
+2025-02-04 22:16:35,950 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:35,952 - ERROR - Error initializing database: near ")": syntax error
+2025-02-04 22:16:35,955 - WARNING -  * Debugger is active!
+2025-02-04 22:16:35,964 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:17:38,243 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/database.py', reloading
+2025-02-04 22:17:38,454 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:17:38,655 - INFO - Logging initialized successfully!
+2025-02-04 22:17:38,658 - INFO - Database initialized successfully.
+2025-02-04 22:17:38,660 - INFO - Database initialized successfully.
+2025-02-04 22:17:38,664 - WARNING -  * Debugger is active!
+2025-02-04 22:17:38,675 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:17:47,309 - INFO - Logging initialized successfully!
+2025-02-04 22:17:47,310 - INFO - Database initialized successfully.
+2025-02-04 22:17:47,312 - INFO - Database initialized successfully.
+2025-02-04 22:17:47,318 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:17:47,318 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:17:47,322 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:17:47,449 - INFO - Logging initialized successfully!
+2025-02-04 22:17:47,450 - INFO - Database initialized successfully.
+2025-02-04 22:17:47,452 - INFO - Database initialized successfully.
+2025-02-04 22:17:47,454 - WARNING -  * Debugger is active!
+2025-02-04 22:17:47,463 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:18:03,765 - INFO - Logging initialized successfully!
+2025-02-04 22:18:03,768 - INFO - Database initialized successfully.
+2025-02-04 22:18:03,770 - INFO - Database initialized successfully.
+2025-02-04 22:18:03,776 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:18:03,776 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:18:03,780 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:18:03,907 - INFO - Logging initialized successfully!
+2025-02-04 22:18:03,908 - INFO - Database initialized successfully.
+2025-02-04 22:18:03,909 - INFO - Database initialized successfully.
+2025-02-04 22:18:03,912 - WARNING -  * Debugger is active!
+2025-02-04 22:18:03,923 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:18:31,321 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:31] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-04 22:18:31,343 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:31] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:18:43,251 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:43] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:18:43,271 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:43] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:18:48,319 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:48] "POST /login HTTP/1.1" 200 -
+2025-02-04 22:18:55,315 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:18:55,327 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:55] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:18:57,925 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:18:57,938 - INFO - 127.0.0.1 - - [04/Feb/2025 22:18:57] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:21:55,877 - INFO - 127.0.0.1 - - [04/Feb/2025 22:21:55] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:21:57,377 - INFO - 127.0.0.1 - - [04/Feb/2025 22:21:57] "[32mGET / HTTP/1.1[0m" 302 -
+2025-02-04 22:21:57,386 - INFO - 127.0.0.1 - - [04/Feb/2025 22:21:57] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:22:01,541 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:22:01,879 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:01] "GET / HTTP/1.1" 200 -
+2025-02-04 22:22:07,758 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:07] "GET / HTTP/1.1" 200 -
+2025-02-04 22:22:08,946 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:08] "GET /send_alert HTTP/1.1" 200 -
+2025-02-04 22:22:27,391 - INFO - Sending alert to 1 users in Telangana: Danger
+2025-02-04 22:22:32,193 - INFO - Email sent to b22096@students.iitmandi.ac.in: Danger
+2025-02-04 22:22:32,436 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:32] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-04 22:22:32,454 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:32] "GET / HTTP/1.1" 200 -
+2025-02-04 22:22:37,898 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:37] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:22:37,913 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:37] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:22:37,914 - INFO - 127.0.0.1 - - [04/Feb/2025 22:22:37] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:23:14,387 - INFO - 127.0.0.1 - - [04/Feb/2025 22:23:14] "GET / HTTP/1.1" 200 -
+2025-02-04 22:24:05,030 - INFO - 127.0.0.1 - - [04/Feb/2025 22:24:05] "GET / HTTP/1.1" 200 -
+2025-02-04 22:24:15,884 - INFO - 127.0.0.1 - - [04/Feb/2025 22:24:15] "GET / HTTP/1.1" 200 -
+2025-02-04 22:24:17,253 - INFO - 127.0.0.1 - - [04/Feb/2025 22:24:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:24:17,265 - INFO - 127.0.0.1 - - [04/Feb/2025 22:24:17] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:24:31,076 - INFO - 127.0.0.1 - - [04/Feb/2025 22:24:31] "GET /register HTTP/1.1" 200 -
+2025-02-04 22:25:20,798 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:20] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-04 22:25:21,108 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:21] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:25:28,345 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:25:28,354 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:28] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:25:31,833 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:25:32,166 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:32] "GET / HTTP/1.1" 200 -
+2025-02-04 22:25:35,273 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:35] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:25:35,278 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:35] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:25:35,279 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:35] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:25:45,297 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:45] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:25:48,388 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:48] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:25:48,393 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:48] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:25:48,393 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:48] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:25:51,702 - INFO - 127.0.0.1 - - [04/Feb/2025 22:25:51] "GET / HTTP/1.1" 200 -
+2025-02-04 22:26:59,164 - INFO - 127.0.0.1 - - [04/Feb/2025 22:26:59] "GET / HTTP/1.1" 200 -
+2025-02-04 22:27:34,671 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:27:35,709 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:27:35,947 - INFO - Logging initialized successfully!
+2025-02-04 22:27:35,948 - INFO - Database initialized successfully.
+2025-02-04 22:31:34,508 - INFO - Logging initialized successfully!
+2025-02-04 22:31:34,517 - INFO - Database initialized successfully.
+2025-02-04 22:32:55,642 - INFO - Logging initialized successfully!
+2025-02-04 22:32:55,647 - INFO - Database initialized successfully.
+2025-02-04 22:34:02,651 - INFO - Logging initialized successfully!
+2025-02-04 22:34:02,659 - INFO - Database initialized successfully.
+2025-02-04 22:34:23,800 - INFO - Logging initialized successfully!
+2025-02-04 22:34:23,801 - INFO - Database initialized successfully.
+2025-02-04 22:34:23,803 - INFO - Database initialized successfully.
+2025-02-04 22:34:23,813 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 22:34:23,813 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 22:34:23,820 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:34:23,947 - INFO - Logging initialized successfully!
+2025-02-04 22:34:23,948 - INFO - Database initialized successfully.
+2025-02-04 22:34:23,950 - INFO - Database initialized successfully.
+2025-02-04 22:34:23,953 - WARNING -  * Debugger is active!
+2025-02-04 22:34:23,966 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:34:26,693 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:26] "GET / HTTP/1.1" 200 -
+2025-02-04 22:34:30,120 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:30] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:34:30,135 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:30] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:34:30,137 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:30] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:34:42,249 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:42] "GET / HTTP/1.1" 200 -
+2025-02-04 22:34:43,494 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:43] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:34:43,499 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:43] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:34:43,500 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:43] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:34:45,588 - INFO - 127.0.0.1 - - [04/Feb/2025 22:34:45] "GET / HTTP/1.1" 200 -
+2025-02-04 22:35:05,800 - INFO - 127.0.0.1 - - [04/Feb/2025 22:35:05] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:35:05,805 - INFO - 127.0.0.1 - - [04/Feb/2025 22:35:05] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:35:05,805 - INFO - 127.0.0.1 - - [04/Feb/2025 22:35:05] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:35:38,350 - INFO - 127.0.0.1 - - [04/Feb/2025 22:35:38] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:35:59,777 - INFO - 127.0.0.1 - - [04/Feb/2025 22:35:59] "GET / HTTP/1.1" 200 -
+2025-02-04 22:36:01,493 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:01] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:36:04,706 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:04] "GET / HTTP/1.1" 200 -
+2025-02-04 22:36:05,616 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:05] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:36:05,622 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:05] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:36:05,622 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:05] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:36:07,184 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:07] "GET / HTTP/1.1" 200 -
+2025-02-04 22:36:11,214 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:11] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:36:11,217 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:11] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:36:11,218 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:11] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:36:12,861 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:12] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:36:12,867 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:12] "GET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-04 22:36:12,867 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:12] "GET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-04 22:36:24,241 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:24] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:36:31,707 - INFO - 127.0.0.1 - - [04/Feb/2025 22:36:31] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:37:03,562 - INFO - 127.0.0.1 - - [04/Feb/2025 22:37:03] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:37:11,888 - INFO - 127.0.0.1 - - [04/Feb/2025 22:37:11] "GET / HTTP/1.1" 200 -
+2025-02-04 22:37:13,458 - INFO - 127.0.0.1 - - [04/Feb/2025 22:37:13] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:37:19,887 - INFO - 127.0.0.1 - - [04/Feb/2025 22:37:19] "GET / HTTP/1.1" 200 -
+2025-02-04 22:38:30,171 - INFO - 127.0.0.1 - - [04/Feb/2025 22:38:30] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:38:45,994 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:38:46,764 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:38:47,017 - INFO - Logging initialized successfully!
+2025-02-04 22:38:47,018 - INFO - Database initialized successfully.
+2025-02-04 22:38:47,020 - INFO - Database initialized successfully.
+2025-02-04 22:38:47,024 - WARNING -  * Debugger is active!
+2025-02-04 22:38:47,036 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:38:48,665 - INFO - 127.0.0.1 - - [04/Feb/2025 22:38:48] "GET / HTTP/1.1" 200 -
+2025-02-04 22:38:49,996 - INFO - 127.0.0.1 - - [04/Feb/2025 22:38:49] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:39:23,378 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:23] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:39:25,155 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:25] "GET / HTTP/1.1" 200 -
+2025-02-04 22:39:26,542 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:26] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:39:26,559 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:26] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:39:38,792 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:39:39,116 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:39] "GET / HTTP/1.1" 200 -
+2025-02-04 22:39:43,866 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:43] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:39:43,880 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:43] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:39:49,076 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:39:49,402 - INFO - 127.0.0.1 - - [04/Feb/2025 22:39:49] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:42:48,357 - INFO - 127.0.0.1 - - [04/Feb/2025 22:42:48] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:43:57,824 - INFO -  * Detected change in '/Users/bitlinguakshay/Desktop/disaster_alert_system/navigation.py', reloading
+2025-02-04 22:43:58,106 - INFO -  * Restarting with watchdog (fsevents)
+2025-02-04 22:43:58,356 - INFO - Logging initialized successfully!
+2025-02-04 22:43:58,357 - INFO - Database initialized successfully.
+2025-02-04 22:43:58,359 - INFO - Database initialized successfully.
+2025-02-04 22:43:58,363 - WARNING -  * Debugger is active!
+2025-02-04 22:43:58,375 - INFO -  * Debugger PIN: 612-417-185
+2025-02-04 22:44:27,035 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:27] "[32mPOST /update_location HTTP/1.1[0m" 302 -
+2025-02-04 22:44:27,052 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:27] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:44:50,651 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:50] "[32mPOST /update_location HTTP/1.1[0m" 302 -
+2025-02-04 22:44:50,664 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:50] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:44:55,630 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:44:55,646 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:55] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:44:59,753 - INFO - 127.0.0.1 - - [04/Feb/2025 22:44:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:45:00,084 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:00] "GET / HTTP/1.1" 200 -
+2025-02-04 22:45:02,384 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:02] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:45:02,403 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:02] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:45:02,404 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:02] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:45:04,542 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:04] "GET / HTTP/1.1" 200 -
+2025-02-04 22:45:05,577 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:05] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:45:10,241 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:10] "GET / HTTP/1.1" 200 -
+2025-02-04 22:45:17,662 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:17] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:45:21,647 - INFO - 127.0.0.1 - - [04/Feb/2025 22:45:21] "GET /send_alert HTTP/1.1" 200 -
+2025-02-04 22:46:49,172 - INFO - Sending alert to 1 users in america: covid 19 stay alert . please stay at home
+2025-02-04 22:46:52,680 - INFO - Email sent to b22100@students.iitmandi.ac.in: covid 19 stay alert . please stay at home
+2025-02-04 22:46:52,922 - INFO - 127.0.0.1 - - [04/Feb/2025 22:46:52] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-04 22:46:52,944 - INFO - 127.0.0.1 - - [04/Feb/2025 22:46:52] "GET / HTTP/1.1" 200 -
+2025-02-04 22:46:57,491 - INFO - 127.0.0.1 - - [04/Feb/2025 22:46:57] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:47:03,892 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:03] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:47:03,898 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:03] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:47:03,899 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:03] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:47:06,824 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:06] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:47:31,034 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:31] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:47:31,047 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:31] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:47:32,734 - INFO - 127.0.0.1 - - [04/Feb/2025 22:47:32] "GET /register HTTP/1.1" 200 -
+2025-02-04 22:48:15,096 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:15] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-04 22:48:15,431 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:15] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:48:18,413 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:48:18,425 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:18] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:48:19,430 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:19] "GET /register HTTP/1.1" 200 -
+2025-02-04 22:48:35,056 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:35] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-02-04 22:48:35,365 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:35] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:48:38,117 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:48:38,128 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:38] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:48:42,885 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:48:43,211 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:43] "GET / HTTP/1.1" 200 -
+2025-02-04 22:48:45,497 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:45] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:48:46,996 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:46] "GET / HTTP/1.1" 200 -
+2025-02-04 22:48:48,214 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:48] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:48:48,219 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:48] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:48:48,220 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:48] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:48:52,794 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:52] "GET / HTTP/1.1" 200 -
+2025-02-04 22:48:53,812 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:53] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:48:55,662 - INFO - 127.0.0.1 - - [04/Feb/2025 22:48:55] "GET /send_alert HTTP/1.1" 200 -
+2025-02-04 22:49:38,256 - INFO - Sending alert to 3 users in america: new virus in town. stay indoor if you want to save your life.
+2025-02-04 22:49:42,562 - INFO - Email sent to b22100@students.iitmandi.ac.in: new virus in town. stay indoor if you want to save your life.
+2025-02-04 22:49:46,044 - INFO - Email sent to b22105@students.iitmandi.ac.in: new virus in town. stay indoor if you want to save your life.
+2025-02-04 22:49:50,345 - INFO - Email sent to b22117@students.iitmandi.ac.in: new virus in town. stay indoor if you want to save your life.
+2025-02-04 22:49:50,593 - INFO - 127.0.0.1 - - [04/Feb/2025 22:49:50] "[32mPOST /send_alert HTTP/1.1[0m" 302 -
+2025-02-04 22:49:50,617 - INFO - 127.0.0.1 - - [04/Feb/2025 22:49:50] "GET / HTTP/1.1" 200 -
+2025-02-04 22:49:58,764 - INFO - 127.0.0.1 - - [04/Feb/2025 22:49:58] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:50:57,176 - INFO - 127.0.0.1 - - [04/Feb/2025 22:50:57] "GET / HTTP/1.1" 200 -
+2025-02-04 22:51:16,027 - INFO - 127.0.0.1 - - [04/Feb/2025 22:51:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:51:16,039 - INFO - 127.0.0.1 - - [04/Feb/2025 22:51:16] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:52:35,548 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:35] "GET /register HTTP/1.1" 200 -
+2025-02-04 22:52:39,606 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:39] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:52:43,271 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:52:43,566 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:43] "GET / HTTP/1.1" 200 -
+2025-02-04 22:52:49,830 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:49] "GET /send_alert HTTP/1.1" 200 -
+2025-02-04 22:52:53,419 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:53] "GET /alerts HTTP/1.1" 200 -
+2025-02-04 22:52:56,698 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:56] "GET /users HTTP/1.1" 200 -
+2025-02-04 22:52:56,702 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:56] "[36mGET /users?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-04 22:52:56,703 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:56] "[36mGET /users?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 22:52:59,762 - INFO - 127.0.0.1 - - [04/Feb/2025 22:52:59] "GET /admins HTTP/1.1" 200 -
+2025-02-04 22:53:04,095 - INFO - 127.0.0.1 - - [04/Feb/2025 22:53:04] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:53:04,103 - INFO - 127.0.0.1 - - [04/Feb/2025 22:53:04] "GET /login HTTP/1.1" 200 -
+2025-02-04 22:53:14,549 - INFO - 127.0.0.1 - - [04/Feb/2025 22:53:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-02-04 22:53:14,871 - INFO - 127.0.0.1 - - [04/Feb/2025 22:53:14] "GET /dashboard HTTP/1.1" 200 -
+2025-02-04 22:53:28,432 - INFO - 127.0.0.1 - - [04/Feb/2025 22:53:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-04 22:53:28,445 - INFO - 127.0.0.1 - - [04/Feb/2025 22:53:28] "GET /login HTTP/1.1" 200 -
